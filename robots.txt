@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usapleri.github.io/sitemap
+Sitemap: https://usapleri.github.io/app/sitemap
+Sitemap: https://usapleri.github.io/assets/sitemap
+Sitemap: https://usapleri.github.io/css/sitemap
+Sitemap: https://usapleri.github.io/includes/sitemap
+Sitemap: https://usapleri.github.io/item/sitemap
+Sitemap: https://usapleri.github.io/src/sitemap
